@@ -1,0 +1,10 @@
+C:\Users\JMK\source\repos\DestroyMonster\DestroyMonster\bin\Debug\DestroyMonster.exe.config
+C:\Users\JMK\source\repos\DestroyMonster\DestroyMonster\bin\Debug\DestroyMonster.exe
+C:\Users\JMK\source\repos\DestroyMonster\DestroyMonster\bin\Debug\DestroyMonster.pdb
+C:\Users\JMK\source\repos\DestroyMonster\DestroyMonster\obj\Debug\DestroyMonster.csprojAssemblyReference.cache
+C:\Users\JMK\source\repos\DestroyMonster\DestroyMonster\obj\Debug\DestroyMonster.Form1.resources
+C:\Users\JMK\source\repos\DestroyMonster\DestroyMonster\obj\Debug\DestroyMonster.Properties.Resources.resources
+C:\Users\JMK\source\repos\DestroyMonster\DestroyMonster\obj\Debug\DestroyMonster.csproj.GenerateResource.cache
+C:\Users\JMK\source\repos\DestroyMonster\DestroyMonster\obj\Debug\DestroyMonster.csproj.CoreCompileInputs.cache
+C:\Users\JMK\source\repos\DestroyMonster\DestroyMonster\obj\Debug\DestroyMonster.exe
+C:\Users\JMK\source\repos\DestroyMonster\DestroyMonster\obj\Debug\DestroyMonster.pdb
